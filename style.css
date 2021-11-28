@@ -1,0 +1,10 @@
+.travel_maindiv{
+    border-width: 5px;
+    border-style: ridge;
+}
+body {
+    text-align: center;
+}
+.fa-sort-desc {
+    float: right;
+}
